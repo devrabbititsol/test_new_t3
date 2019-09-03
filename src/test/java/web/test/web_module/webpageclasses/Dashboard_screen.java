@@ -10,7 +10,7 @@ import com.relevantcodes.extentreports.ExtentTest;
 @SuppressWarnings("unused")
 public class Dashboard_screen extends BaseClass {
 	
-	public static String primaryInfo  = "{\"user_id\":99,\"executed_user_id\":99,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"http://devrabbitdev.com\",\"report_upload_url\":\"https://smartqe.io:443/UploadReportFile\",\"project_name\":\"test\",\"project_description\":\"desc\",\"project_id\":434,\"module_name\":\"web_module\",\"module_description\":\"desc\",\"sub_module_id\":0,\"module_id\":722,\"testcase_name\":\"TC\",\"testcase_id\":583,\"testset_id\":0,\"executed_timestamp\":-174002627,\"browser_type\":\"chrome\",\"testcase_overwrite\":true,\"client_timezone_id\":\"Asia/Calcutta\"}";
+	public static String primaryInfo  = "{\"user_id\":99,\"executed_user_id\":99,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"http://devrabbitdev.com\",\"report_upload_url\":\"https://smartqe.io:443/UploadReportFile\",\"project_name\":\"test\",\"project_description\":\"desc\",\"project_id\":434,\"module_name\":\"web_module\",\"module_description\":\"desc\",\"sub_module_id\":0,\"module_id\":722,\"testcase_name\":\"TC\",\"testcase_id\":583,\"testset_id\":0,\"executed_timestamp\":-170823916,\"browser_type\":\"chrome\",\"testcase_overwrite\":true,\"client_timezone_id\":\"Asia/Calcutta\"}";
 
 	public static String projectName = "test";
 	public WebDriver driver;
