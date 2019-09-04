@@ -29,7 +29,7 @@ public static String projectName = "test";
  + "\"repository_url\":\"RaiQ0t7ecklJvfjlm04smHdEfM6bO1va8nkXLodLXP0ZLC+DQNJWzLHdGh8pZjiNA1xC1klvgxuYRi2lz2aXs2zjjuoppsbr5lhTvcOYqx3vFCHBoeQuYEa9TKRB+6Xx\","
  + "\"sub_module_description\":null,"
  + "\"testcase_name\":\"TC\","
- + "\"executed_timestamp\":1567593486117,"
+ + "\"executed_timestamp\":1567593543668,"
  + "\"is_execute\":false,"
  + "\"file_name\":null,"
  + "\"aes_secret_key\":\"_SmartQE_SmartQE\","
@@ -43,7 +43,7 @@ public static String projectName = "test";
  + "\"bundle_id\":null,"
  + "\"sub_module_name\":null,"
  + "\"device_os_version\":null,"
- + "\"execution_environment\":\"jenkins\","
+ + "\"execution_environment\":\"docker\","
  + "\"module_name\":\"API_module\","
  + "\"executed_user_id\":99}";
 
